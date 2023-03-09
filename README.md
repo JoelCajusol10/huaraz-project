@@ -1,2 +1,2 @@
-# huaraz-project.github.io
+# huaraz-project
 Huaraz, la Suiza Peruana
